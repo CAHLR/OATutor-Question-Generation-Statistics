@@ -1,3 +1,3 @@
-[submodule "src/content-sources/gitoat"]
+[submodule "src/content-sources/gito"]
 	path = src/content-sources/oatutor
 	url = https://github.com/CAHLR/OATutor-Content.git
